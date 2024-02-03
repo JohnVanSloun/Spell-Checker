@@ -1,0 +1,8 @@
+ant
+cat
+flame
+hydra
+orchid
+pearl
+swan
+tempest
